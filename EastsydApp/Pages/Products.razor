@@ -1,0 +1,42 @@
+﻿
+@page "/"
+@inherits ProductBase
+
+<div style="margin-top: 2px; margin-bottom: 20px;" class="header-container">
+    <div class="d-flex justify-content-center align-items-center mb-3 header">
+        <div style="margin-left: 20px;">
+            <img src="/Images/east side.png" alt="Brand Logo" class="img-fluid align-content-center" style="max-width: 200px; max-height: 100px;" />
+        </div>
+        <div class="input-group ml-3" style="margin-left: 20px; margin-right: 20px;">
+            <input type="text" class="form-control" placeholder="Search products, brands and categories" aria-label="Search" aria-describedby="searchIcon" @bind="SearchTerm">
+            <button class="btn visibility btn-outline-secondary searchBtn" type="button" id="searchIcon" style="background-color: #4B0082; padding-left: 10px; z-index: -1;"><i class="fa-solid fa-magnifying-glass fa-1x text-white"></i></button>
+        </div>
+    </div>
+</div>
+
+
+@if (Products == null)
+{
+    <DisplaySpinner />
+}
+else
+{
+    var groupedProducts = GetGroupedProductsByCategory();
+
+    @if (groupedProducts.Any())
+    {
+        @foreach (var prodGroup in groupedProducts)
+        {
+            <h4>@GetCategoryName(prodGroup)</h4>
+            <div class="row mt-3">
+                <DisplayProducts Products="@prodGroup.Take(4)" ></DisplayProducts>
+
+            </div>
+            <hr class="mb-3">
+        }
+    }
+    else
+    {
+        <h3>No products match your search criteria.</h3>
+    }
+}
