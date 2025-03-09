@@ -1,5 +1,4 @@
-
-//Done By Emmanuel James
+// Done By Emmanuel James
 using EastsydApp.API.Data;
 using EastsydApp.API.Models;
 using EastsydApp.API.Repositories;
@@ -35,14 +34,17 @@ builder.Services.AddControllers()
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
+app.UseSwagger();
 if (app.Environment.IsDevelopment())
 {
-    app.UseSwagger();
     app.UseSwaggerUI();
 }
 
+// Redirect the root URL to the Swagger page
+app.MapGet("/", () => Results.Redirect("/swagger"));
+
 app.UseCors(policy =>
-    policy.WithOrigins("http://localhost:7224", "https://localhost:7224")
+    policy.WithOrigins("http://localhost:7224", "https://localhost:7224", "https://eastsydappapi.azurewebsites.net")
     .AllowAnyMethod()
     .WithHeaders(HeaderNames.ContentType)
 );

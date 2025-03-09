@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "EastsydApp.API\\EastsydApp.API.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "EastsydApp\\EastsydApp.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

@@ -1,0 +1,3 @@
+C:\Users\james\EastsydAppSolution\publish\EastsydApp.Models.dll
+C:\Users\james\EastsydAppSolution\publish\EastsydApp.Models.deps.json
+C:\Users\james\EastsydAppSolution\publish\EastsydApp.Models.pdb

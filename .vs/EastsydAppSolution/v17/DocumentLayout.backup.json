@@ -1,0 +1,288 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\james\\EastsydAppSolution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{12DC717E-BEE8-4045-A7E1-F314B3BCEC86}|EastsydApp.API\\EastsydApp.API.csproj|c:\\users\\james\\eastsydappsolution\\eastsydapp.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{12DC717E-BEE8-4045-A7E1-F314B3BCEC86}|EastsydApp.API\\EastsydApp.API.csproj|solutionrelative:eastsydapp.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12DC717E-BEE8-4045-A7E1-F314B3BCEC86}|EastsydApp.API\\EastsydApp.API.csproj|c:\\users\\james\\eastsydappsolution\\eastsydapp.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12DC717E-BEE8-4045-A7E1-F314B3BCEC86}|EastsydApp.API\\EastsydApp.API.csproj|solutionrelative:eastsydapp.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A62C0360-9FF1-46C9-9A9A-FF46F66BFE6F}|EastsydApp\\EastsydApp.csproj|c:\\users\\james\\eastsydappsolution\\eastsydapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A62C0360-9FF1-46C9-9A9A-FF46F66BFE6F}|EastsydApp\\EastsydApp.csproj|solutionrelative:eastsydapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12DC717E-BEE8-4045-A7E1-F314B3BCEC86}|EastsydApp.API\\EastsydApp.API.csproj|c:\\users\\james\\eastsydappsolution\\eastsydapp.api\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12DC717E-BEE8-4045-A7E1-F314B3BCEC86}|EastsydApp.API\\EastsydApp.API.csproj|solutionrelative:eastsydapp.api\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A62C0360-9FF1-46C9-9A9A-FF46F66BFE6F}|EastsydApp\\EastsydApp.csproj|c:\\users\\james\\eastsydappsolution\\eastsydapp\\pages\\products.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A62C0360-9FF1-46C9-9A9A-FF46F66BFE6F}|EastsydApp\\EastsydApp.csproj|solutionrelative:eastsydapp\\pages\\products.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12DC717E-BEE8-4045-A7E1-F314B3BCEC86}|EastsydApp.API\\EastsydApp.API.csproj|c:\\users\\james\\eastsydappsolution\\eastsydapp.api\\repositories\\contracts\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12DC717E-BEE8-4045-A7E1-F314B3BCEC86}|EastsydApp.API\\EastsydApp.API.csproj|solutionrelative:eastsydapp.api\\repositories\\contracts\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12DC717E-BEE8-4045-A7E1-F314B3BCEC86}|EastsydApp.API\\EastsydApp.API.csproj|c:\\users\\james\\eastsydappsolution\\eastsydapp.api\\data\\eastsyddbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12DC717E-BEE8-4045-A7E1-F314B3BCEC86}|EastsydApp.API\\EastsydApp.API.csproj|solutionrelative:eastsydapp.api\\data\\eastsyddbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A62C0360-9FF1-46C9-9A9A-FF46F66BFE6F}|EastsydApp\\EastsydApp.csproj|c:\\users\\james\\eastsydappsolution\\eastsydapp\\pages\\displayspinner.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A62C0360-9FF1-46C9-9A9A-FF46F66BFE6F}|EastsydApp\\EastsydApp.csproj|solutionrelative:eastsydapp\\pages\\displayspinner.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12DC717E-BEE8-4045-A7E1-F314B3BCEC86}|EastsydApp.API\\EastsydApp.API.csproj|c:\\users\\james\\eastsydappsolution\\eastsydapp.api\\converter\\dtoconversions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12DC717E-BEE8-4045-A7E1-F314B3BCEC86}|EastsydApp.API\\EastsydApp.API.csproj|solutionrelative:eastsydapp.api\\converter\\dtoconversions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12DC717E-BEE8-4045-A7E1-F314B3BCEC86}|EastsydApp.API\\EastsydApp.API.csproj|c:\\users\\james\\eastsydappsolution\\eastsydapp.api\\repositories\\ishoppingcartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12DC717E-BEE8-4045-A7E1-F314B3BCEC86}|EastsydApp.API\\EastsydApp.API.csproj|solutionrelative:eastsydapp.api\\repositories\\ishoppingcartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12DC717E-BEE8-4045-A7E1-F314B3BCEC86}|EastsydApp.API\\EastsydApp.API.csproj|c:\\users\\james\\eastsydappsolution\\eastsydapp.api\\repositories\\contracts\\shoppingcartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12DC717E-BEE8-4045-A7E1-F314B3BCEC86}|EastsydApp.API\\EastsydApp.API.csproj|solutionrelative:eastsydapp.api\\repositories\\contracts\\shoppingcartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 24,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\james\\EastsydAppSolution\\EastsydApp.API\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "EastsydApp.API\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\james\\EastsydAppSolution\\EastsydApp.API\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "EastsydApp.API\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAGEAAAAAAAAAAAAUwHwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T15:08:16.143Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{08a1bf1d-7967-4afc-8253-1790862ab8c9}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{08a1bf1d-7967-4afc-8253-1790862ab8c9}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:4:0:{08a1bf1d-7967-4afc-8253-1790862ab8c9}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:5:0:{08a1bf1d-7967-4afc-8253-1790862ab8c9}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:6:0:{08a1bf1d-7967-4afc-8253-1790862ab8c9}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:8:0:{08a1bf1d-7967-4afc-8253-1790862ab8c9}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1491053164:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:401154529:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:850855357:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1980412118:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:793895323:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1313801767:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1538469946:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1335984442:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1767791948:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:79943471:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Products.razor",
+              "DocumentMoniker": "C:\\Users\\james\\EastsydAppSolution\\EastsydApp\\Pages\\Products.razor",
+              "RelativeDocumentMoniker": "EastsydApp\\Pages\\Products.razor",
+              "ToolTip": "C:\\Users\\james\\EastsydAppSolution\\EastsydApp\\Pages\\Products.razor",
+              "RelativeToolTip": "EastsydApp\\Pages\\Products.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-09T15:10:24.698Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\james\\EastsydAppSolution\\EastsydApp.API\\Program.cs",
+              "RelativeDocumentMoniker": "EastsydApp.API\\Program.cs",
+              "ToolTip": "C:\\Users\\james\\EastsydAppSolution\\EastsydApp.API\\Program.cs",
+              "RelativeToolTip": "EastsydApp.API\\Program.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAACsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T04:20:29.697Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\james\\EastsydAppSolution\\EastsydApp.API\\appsettings.json",
+              "RelativeDocumentMoniker": "EastsydApp.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\james\\EastsydAppSolution\\EastsydApp.API\\appsettings.json",
+              "RelativeToolTip": "EastsydApp.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-13T19:21:13.265Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\james\\EastsydAppSolution\\EastsydApp\\Program.cs",
+              "RelativeDocumentMoniker": "EastsydApp\\Program.cs",
+              "ToolTip": "C:\\Users\\james\\EastsydAppSolution\\EastsydApp\\Program.cs",
+              "RelativeToolTip": "EastsydApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T19:21:01.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\james\\EastsydAppSolution\\EastsydApp.API\\Repositories\\Contracts\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "EastsydApp.API\\Repositories\\Contracts\\ProductRepository.cs",
+              "ToolTip": "C:\\Users\\james\\EastsydAppSolution\\EastsydApp.API\\Repositories\\Contracts\\ProductRepository.cs",
+              "RelativeToolTip": "EastsydApp.API\\Repositories\\Contracts\\ProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T08:57:22.401Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IShoppingCartRepository.cs",
+              "DocumentMoniker": "C:\\Users\\james\\EastsydAppSolution\\EastsydApp.API\\Repositories\\IShoppingCartRepository.cs",
+              "RelativeDocumentMoniker": "EastsydApp.API\\Repositories\\IShoppingCartRepository.cs",
+              "ToolTip": "C:\\Users\\james\\EastsydAppSolution\\EastsydApp.API\\Repositories\\IShoppingCartRepository.cs",
+              "RelativeToolTip": "EastsydApp.API\\Repositories\\IShoppingCartRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T08:57:18.426Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EastsydDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\james\\EastsydAppSolution\\EastsydApp.API\\Data\\EastsydDbContext.cs",
+              "RelativeDocumentMoniker": "EastsydApp.API\\Data\\EastsydDbContext.cs",
+              "ToolTip": "C:\\Users\\james\\EastsydAppSolution\\EastsydApp.API\\Data\\EastsydDbContext.cs",
+              "RelativeToolTip": "EastsydApp.API\\Data\\EastsydDbContext.cs",
+              "ViewState": "AgIAAGEAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T08:58:30.046Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DisplaySpinner.razor",
+              "DocumentMoniker": "C:\\Users\\james\\EastsydAppSolution\\EastsydApp\\Pages\\DisplaySpinner.razor",
+              "RelativeDocumentMoniker": "EastsydApp\\Pages\\DisplaySpinner.razor",
+              "ToolTip": "C:\\Users\\james\\EastsydAppSolution\\EastsydApp\\Pages\\DisplaySpinner.razor",
+              "RelativeToolTip": "EastsydApp\\Pages\\DisplaySpinner.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-20T15:18:43.275Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DtoConversions.cs",
+              "DocumentMoniker": "C:\\Users\\james\\EastsydAppSolution\\EastsydApp.API\\Converter\\DtoConversions.cs",
+              "RelativeDocumentMoniker": "EastsydApp.API\\Converter\\DtoConversions.cs",
+              "ToolTip": "C:\\Users\\james\\EastsydAppSolution\\EastsydApp.API\\Converter\\DtoConversions.cs",
+              "RelativeToolTip": "EastsydApp.API\\Converter\\DtoConversions.cs",
+              "ViewState": "AQIAAD4AAAAAAAAAAAAIwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T08:59:10.084Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ShoppingCartRepository.cs",
+              "DocumentMoniker": "C:\\Users\\james\\EastsydAppSolution\\EastsydApp.API\\Repositories\\Contracts\\ShoppingCartRepository.cs",
+              "RelativeDocumentMoniker": "EastsydApp.API\\Repositories\\Contracts\\ShoppingCartRepository.cs",
+              "ToolTip": "C:\\Users\\james\\EastsydAppSolution\\EastsydApp.API\\Repositories\\Contracts\\ShoppingCartRepository.cs",
+              "RelativeToolTip": "EastsydApp.API\\Repositories\\Contracts\\ShoppingCartRepository.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAwwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T08:57:28.738Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

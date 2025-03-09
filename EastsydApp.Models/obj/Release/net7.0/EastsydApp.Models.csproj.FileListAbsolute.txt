@@ -1,0 +1,12 @@
+C:\Users\james\EastsydAppSolution\EastsydApp.Models\bin\Release\net7.0\EastsydApp.Models.deps.json
+C:\Users\james\EastsydAppSolution\EastsydApp.Models\bin\Release\net7.0\EastsydApp.Models.dll
+C:\Users\james\EastsydAppSolution\EastsydApp.Models\bin\Release\net7.0\EastsydApp.Models.pdb
+C:\Users\james\EastsydAppSolution\EastsydApp.Models\obj\Release\net7.0\EastsydApp.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\james\EastsydAppSolution\EastsydApp.Models\obj\Release\net7.0\EastsydApp.Models.AssemblyInfoInputs.cache
+C:\Users\james\EastsydAppSolution\EastsydApp.Models\obj\Release\net7.0\EastsydApp.Models.AssemblyInfo.cs
+C:\Users\james\EastsydAppSolution\EastsydApp.Models\obj\Release\net7.0\EastsydApp.Models.csproj.CoreCompileInputs.cache
+C:\Users\james\EastsydAppSolution\EastsydApp.Models\obj\Release\net7.0\EastsydApp.Models.dll
+C:\Users\james\EastsydAppSolution\EastsydApp.Models\obj\Release\net7.0\refint\EastsydApp.Models.dll
+C:\Users\james\EastsydAppSolution\EastsydApp.Models\obj\Release\net7.0\EastsydApp.Models.pdb
+C:\Users\james\EastsydAppSolution\EastsydApp.Models\obj\Release\net7.0\ref\EastsydApp.Models.dll
+C:\Users\james\EastsydAppSolution\EastsydApp.Models\obj\Release\net7.0\EastsydApp.Models.sourcelink.json

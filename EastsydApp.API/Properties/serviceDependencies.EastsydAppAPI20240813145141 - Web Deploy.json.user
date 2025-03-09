@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "apis1": {
+      "restored": true,
+      "restoreTime": "2024-08-13T18:53:14.8603647Z"
+    },
+    "sqlite1": {
+      "restored": true,
+      "restoreTime": "2024-08-13T19:04:13.5642483Z"
+    }
+  },
+  "parameters": {
+    "apis1.resourceGroupName": {
+      "Name": "apis1.resourceGroupName",
+      "Type": "resourceGroup",
+      "Value": "EastsydApp_rg"
+    },
+    "apis1.subscriptionId": {
+      "Name": "apis1.subscriptionId",
+      "Type": "subscription",
+      "Value": "974835aa-3f94-4344-978d-538e8ad99c29"
+    }
+  }
+}

@@ -1,0 +1,41 @@
+wwwroot\css\app.css
+wwwroot\css\bootstrap\bootstrap.min.css
+wwwroot\css\bootstrap\bootstrap.min.css.map
+wwwroot\css\open-iconic\font\css\open-iconic-bootstrap.min.css
+wwwroot\css\open-iconic\font\fonts\open-iconic.eot
+wwwroot\css\open-iconic\font\fonts\open-iconic.otf
+wwwroot\css\open-iconic\font\fonts\open-iconic.svg
+wwwroot\css\open-iconic\font\fonts\open-iconic.ttf
+wwwroot\css\open-iconic\font\fonts\open-iconic.woff
+wwwroot\css\open-iconic\FONT-LICENSE
+wwwroot\css\open-iconic\ICON-LICENSE
+wwwroot\css\open-iconic\README.md
+wwwroot\favicon.png
+wwwroot\icon-192.png
+wwwroot\Images\east side.png
+wwwroot\Images\Electronics\Airpod 3.jpg
+wwwroot\Images\Electronics\Airpod and pack.jpg
+wwwroot\Images\Electronics\Beats Headphone.jpg
+wwwroot\Images\Electronics\Iphone.jpg
+wwwroot\Images\Electronics\Tozo Earbud.jpg
+wwwroot\Images\Electronics\Tripod.jpg
+wwwroot\Images\Furniture\bigChair.jpg
+wwwroot\Images\Furniture\chair 2.jpg
+wwwroot\Images\Furniture\chair one.jpg
+wwwroot\Images\Furniture\Desk.jpg
+wwwroot\Images\Furniture\family chair.jpg
+wwwroot\Images\Furniture\Lamp.jpg
+wwwroot\Images\Shoes\Addidas.jpg
+wwwroot\Images\Shoes\Chelsea Boot.jpg
+wwwroot\Images\Shoes\Nike Air Max.jpg
+wwwroot\Images\Shoes\Nike Dunk Low.jpg
+wwwroot\Images\Shoes\Puma.jpg
+wwwroot\Images\Shoes\Sketchers.jpg
+wwwroot\Images\Skin-Care\Beauty Kit.jpg
+wwwroot\Images\Skin-Care\elfBeauty.jpg
+wwwroot\Images\Skin-Care\Lip Gloss two.jpg
+wwwroot\Images\Skin-Care\Lip Stick.jpg
+wwwroot\Images\Skin-Care\Mc Beauty.jpg
+wwwroot\index.html
+wwwroot\JS\ShoppingCartFunction.js
+wwwroot\sample-data\weather.json

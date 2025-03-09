@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EastsydApp.Models")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+37ce5bc4fd3eb12637649c643c1974cb335296b3")]
 [assembly: System.Reflection.AssemblyProductAttribute("EastsydApp.Models")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EastsydApp.Models")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

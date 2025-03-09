@@ -1,0 +1,197 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\james\\EastsydAppSolution\\EastsydApp\\bin\\Release\\net7.0\\wwwroot\\_framework\\blazor.webassembly.js",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js"
+    },
+    {
+      "Id": "C:\\Users\\james\\EastsydAppSolution\\EastsydApp\\obj\\Release\\net7.0\\scopedcss\\bundle\\EastsydApp.styles.css",
+      "PackagePath": "staticwebassets\\EastsydApp.styles.css"
+    },
+    {
+      "Id": "C:\\Users\\james\\EastsydAppSolution\\EastsydApp\\wwwroot\\Images\\Electronics\\Airpod 3.jpg",
+      "PackagePath": "staticwebassets\\Images\\Electronics\\Airpod 3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\james\\EastsydAppSolution\\EastsydApp\\wwwroot\\Images\\Electronics\\Airpod and pack.jpg",
+      "PackagePath": "staticwebassets\\Images\\Electronics\\Airpod and pack.jpg"
+    },
+    {
+      "Id": "C:\\Users\\james\\EastsydAppSolution\\EastsydApp\\wwwroot\\Images\\Electronics\\Beats Headphone.jpg",
+      "PackagePath": "staticwebassets\\Images\\Electronics\\Beats Headphone.jpg"
+    },
+    {
+      "Id": "C:\\Users\\james\\EastsydAppSolution\\EastsydApp\\wwwroot\\Images\\Electronics\\Iphone.jpg",
+      "PackagePath": "staticwebassets\\Images\\Electronics\\Iphone.jpg"
+    },
+    {
+      "Id": "C:\\Users\\james\\EastsydAppSolution\\EastsydApp\\wwwroot\\Images\\Electronics\\Tozo Earbud.jpg",
+      "PackagePath": "staticwebassets\\Images\\Electronics\\Tozo Earbud.jpg"
+    },
+    {
+      "Id": "C:\\Users\\james\\EastsydAppSolution\\EastsydApp\\wwwroot\\Images\\Electronics\\Tripod.jpg",
+      "PackagePath": "staticwebassets\\Images\\Electronics\\Tripod.jpg"
+    },
+    {
+      "Id": "C:\\Users\\james\\EastsydAppSolution\\EastsydApp\\wwwroot\\Images\\Furniture\\Desk.jpg",
+      "PackagePath": "staticwebassets\\Images\\Furniture\\Desk.jpg"
+    },
+    {
+      "Id": "C:\\Users\\james\\EastsydAppSolution\\EastsydApp\\wwwroot\\Images\\Furniture\\Lamp.jpg",
+      "PackagePath": "staticwebassets\\Images\\Furniture\\Lamp.jpg"
+    },
+    {
+      "Id": "C:\\Users\\james\\EastsydAppSolution\\EastsydApp\\wwwroot\\Images\\Furniture\\bigChair.jpg",
+      "PackagePath": "staticwebassets\\Images\\Furniture\\bigChair.jpg"
+    },
+    {
+      "Id": "C:\\Users\\james\\EastsydAppSolution\\EastsydApp\\wwwroot\\Images\\Furniture\\chair 2.jpg",
+      "PackagePath": "staticwebassets\\Images\\Furniture\\chair 2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\james\\EastsydAppSolution\\EastsydApp\\wwwroot\\Images\\Furniture\\chair one.jpg",
+      "PackagePath": "staticwebassets\\Images\\Furniture\\chair one.jpg"
+    },
+    {
+      "Id": "C:\\Users\\james\\EastsydAppSolution\\EastsydApp\\wwwroot\\Images\\Furniture\\family chair.jpg",
+      "PackagePath": "staticwebassets\\Images\\Furniture\\family chair.jpg"
+    },
+    {
+      "Id": "C:\\Users\\james\\EastsydAppSolution\\EastsydApp\\wwwroot\\Images\\Shoes\\Addidas.jpg",
+      "PackagePath": "staticwebassets\\Images\\Shoes\\Addidas.jpg"
+    },
+    {
+      "Id": "C:\\Users\\james\\EastsydAppSolution\\EastsydApp\\wwwroot\\Images\\Shoes\\Chelsea Boot.jpg",
+      "PackagePath": "staticwebassets\\Images\\Shoes\\Chelsea Boot.jpg"
+    },
+    {
+      "Id": "C:\\Users\\james\\EastsydAppSolution\\EastsydApp\\wwwroot\\Images\\Shoes\\Nike Air Max.jpg",
+      "PackagePath": "staticwebassets\\Images\\Shoes\\Nike Air Max.jpg"
+    },
+    {
+      "Id": "C:\\Users\\james\\EastsydAppSolution\\EastsydApp\\wwwroot\\Images\\Shoes\\Nike Dunk Low.jpg",
+      "PackagePath": "staticwebassets\\Images\\Shoes\\Nike Dunk Low.jpg"
+    },
+    {
+      "Id": "C:\\Users\\james\\EastsydAppSolution\\EastsydApp\\wwwroot\\Images\\Shoes\\Puma.jpg",
+      "PackagePath": "staticwebassets\\Images\\Shoes\\Puma.jpg"
+    },
+    {
+      "Id": "C:\\Users\\james\\EastsydAppSolution\\EastsydApp\\wwwroot\\Images\\Shoes\\Sketchers.jpg",
+      "PackagePath": "staticwebassets\\Images\\Shoes\\Sketchers.jpg"
+    },
+    {
+      "Id": "C:\\Users\\james\\EastsydAppSolution\\EastsydApp\\wwwroot\\Images\\Skin-Care\\Beauty Kit.jpg",
+      "PackagePath": "staticwebassets\\Images\\Skin-Care\\Beauty Kit.jpg"
+    },
+    {
+      "Id": "C:\\Users\\james\\EastsydAppSolution\\EastsydApp\\wwwroot\\Images\\Skin-Care\\Lip Gloss two.jpg",
+      "PackagePath": "staticwebassets\\Images\\Skin-Care\\Lip Gloss two.jpg"
+    },
+    {
+      "Id": "C:\\Users\\james\\EastsydAppSolution\\EastsydApp\\wwwroot\\Images\\Skin-Care\\Lip Stick.jpg",
+      "PackagePath": "staticwebassets\\Images\\Skin-Care\\Lip Stick.jpg"
+    },
+    {
+      "Id": "C:\\Users\\james\\EastsydAppSolution\\EastsydApp\\wwwroot\\Images\\Skin-Care\\Mc Beauty.jpg",
+      "PackagePath": "staticwebassets\\Images\\Skin-Care\\Mc Beauty.jpg"
+    },
+    {
+      "Id": "C:\\Users\\james\\EastsydAppSolution\\EastsydApp\\wwwroot\\Images\\Skin-Care\\elfBeauty.jpg",
+      "PackagePath": "staticwebassets\\Images\\Skin-Care\\elfBeauty.jpg"
+    },
+    {
+      "Id": "C:\\Users\\james\\EastsydAppSolution\\EastsydApp\\wwwroot\\Images\\east side.png",
+      "PackagePath": "staticwebassets\\Images\\east side.png"
+    },
+    {
+      "Id": "C:\\Users\\james\\EastsydAppSolution\\EastsydApp\\wwwroot\\JS\\ShoppingCartFunction.js",
+      "PackagePath": "staticwebassets\\JS\\ShoppingCartFunction.js"
+    },
+    {
+      "Id": "C:\\Users\\james\\EastsydAppSolution\\EastsydApp\\wwwroot\\css\\app.css",
+      "PackagePath": "staticwebassets\\css\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\james\\EastsydAppSolution\\EastsydApp\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\james\\EastsydAppSolution\\EastsydApp\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\james\\EastsydAppSolution\\EastsydApp\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
+      "PackagePath": "staticwebassets\\css\\open-iconic"
+    },
+    {
+      "Id": "C:\\Users\\james\\EastsydAppSolution\\EastsydApp\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
+      "PackagePath": "staticwebassets\\css\\open-iconic"
+    },
+    {
+      "Id": "C:\\Users\\james\\EastsydAppSolution\\EastsydApp\\wwwroot\\css\\open-iconic\\README.md",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\README.md"
+    },
+    {
+      "Id": "C:\\Users\\james\\EastsydAppSolution\\EastsydApp\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\james\\EastsydAppSolution\\EastsydApp\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.eot"
+    },
+    {
+      "Id": "C:\\Users\\james\\EastsydAppSolution\\EastsydApp\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.otf"
+    },
+    {
+      "Id": "C:\\Users\\james\\EastsydAppSolution\\EastsydApp\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.svg"
+    },
+    {
+      "Id": "C:\\Users\\james\\EastsydAppSolution\\EastsydApp\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\james\\EastsydAppSolution\\EastsydApp\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.woff"
+    },
+    {
+      "Id": "C:\\Users\\james\\EastsydAppSolution\\EastsydApp\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\james\\EastsydAppSolution\\EastsydApp\\wwwroot\\icon-192.png",
+      "PackagePath": "staticwebassets\\icon-192.png"
+    },
+    {
+      "Id": "C:\\Users\\james\\EastsydAppSolution\\EastsydApp\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\james\\EastsydAppSolution\\EastsydApp\\wwwroot\\sample-data\\weather.json",
+      "PackagePath": "staticwebassets\\sample-data\\weather.json"
+    },
+    {
+      "Id": "obj\\Release\\net7.0\\staticwebassets\\msbuild.EastsydApp.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Release\\net7.0\\staticwebassets\\msbuild.EastsydApp.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Release\\net7.0\\staticwebassets\\msbuild.build.EastsydApp.props",
+      "PackagePath": "build\\EastsydApp.props"
+    },
+    {
+      "Id": "obj\\Release\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.EastsydApp.props",
+      "PackagePath": "buildMultiTargeting\\EastsydApp.props"
+    },
+    {
+      "Id": "obj\\Release\\net7.0\\staticwebassets\\msbuild.buildTransitive.EastsydApp.props",
+      "PackagePath": "buildTransitive\\EastsydApp.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

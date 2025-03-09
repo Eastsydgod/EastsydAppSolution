@@ -11,10 +11,11 @@
 using System;
 using System.Reflection;
 
+[assembly: Microsoft.Extensions.Configuration.UserSecrets.UserSecretsIdAttribute("9b24ebbe-7ced-47cb-b90c-00b5fcb6e9f5")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("EastsydApp.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+37ce5bc4fd3eb12637649c643c1974cb335296b3")]
 [assembly: System.Reflection.AssemblyProductAttribute("EastsydApp.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EastsydApp.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

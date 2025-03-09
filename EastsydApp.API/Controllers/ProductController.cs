@@ -69,8 +69,10 @@ namespace EastsydApp.API.Controllers
                 }
 
             }
-            catch (Exception)
+            catch (Exception ex)
             {
+
+                Console.WriteLine($"Error in GetItems: {ex.Message}");
                 return StatusCode(StatusCodes.Status500InternalServerError,
                                 "Error retrieving data from the database");
 

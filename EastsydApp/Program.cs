@@ -8,12 +8,19 @@ using Microsoft.AspNetCore.Components.WebAssembly.Hosting;
 using Blazored.LocalStorage;
 
 var builder = WebAssemblyHostBuilder.CreateDefault(args);
+
+
 builder.RootComponents.Add<App>("#app");
 builder.RootComponents.Add<HeadOutlet>("head::after");
 
-builder.Services.AddScoped(sp => new HttpClient { BaseAddress = new Uri("https://localhost:7251/") });
-builder.Services.AddScoped<IProductServices, ProductServices>();
+// Configure HttpClient with environment-aware API URL
+var baseUri = builder.HostEnvironment.IsDevelopment()
+    ? new Uri("https://localhost:7251/")  // Local development URL
+    : new Uri("https://eastsydappapi.azurewebsites.net/");  // Production API URL
 
+builder.Services.AddScoped(sp => new HttpClient { BaseAddress = baseUri });
+
+builder.Services.AddScoped<IProductServices, ProductServices>();
 builder.Services.AddScoped<IShoppingCartServices, ShoppingCartServices>();
 builder.Services.AddBlazoredLocalStorage();
 
